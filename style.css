@@ -31,6 +31,9 @@ body {
   background-color: mediumorchid;
   background: url("./Ulaagchiin\ Khar\ Lake2.jpg") no-repeat center center/cover;
 }
+#page-5 {
+  background: url("huisiin8lake.jpg") no-repeat center center/cover;
+}
 h1 {
   font-size: 40px;
 }
